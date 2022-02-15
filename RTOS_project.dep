@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1577112623</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\core_cm3.h</file>
+      <file>$PROJ_DIR$\at91sam3x8.h</file>
+      <file>$PROJ_DIR$\cstartup.s</file>
+      <file>$PROJ_DIR$\context_switching_functions_march_2019.s</file>
+      <file>$PROJ_DIR$\kernel_functions_march_2019.c</file>
+      <file>$PROJ_DIR$\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\kernel_functions_march_2019.h</file>
+      <file>$PROJ_DIR$\exceptions.c</file>
+      <file>$PROJ_DIR$\exceptions.h</file>
+      <file>$PROJ_DIR$\kernel_functions_february_2019.h</file>
+      <file>$PROJ_DIR$\test.c</file>
+      <file>$PROJ_DIR$\sample_test_one.c</file>
+      <file>$PROJ_DIR$\sample_test_two.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\sample_test_two.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\sample_test_one.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\sample_test_two.pbi</file>
+      <file>$PROJ_DIR$\startup_sam3x.c</file>
+      <file>$PROJ_DIR$\system_sam3x.c</file>
+      <file>$PROJ_DIR$\system_sam3x.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\kernel_functions_march_2019.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\kernel_functions_february_2019.o</file>
+      <file>$PROJ_DIR$\kernel_functions_february_2019.c</file>
+      <file>$PROJ_DIR$\application_program.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\application_program.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\context_switching_functions_march_2019.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_sam3x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\test.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\context_switching_functions_february2019.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\RTOS_project.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\kernel_functions_march_2019.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\test.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\exceptions.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\exceptions.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_sam3x.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_sam3x.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\kernel_functions_february_2019.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_sam3x.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\context_switching_functions_february2019.s</file>
+      <file>$PROJ_DIR$\sam3x8-sram_BigHeap.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\sample_test_one.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\cstartup.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\context_switching_functions_march_2019.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\kernel_functions_march_2019.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 7 44 58 38 39 35 37 30 41 33 36 54 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 44 58 38 39 37 30 41 33 36 54 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\exceptions.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\test.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\sample_test_one.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\sample_test_two.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20 15 58 38 39 35 37 30 41 0 6 43 40 5 1 7 44 33 36 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 15 58 38 39 37 30 41 0 6 43 40 5 1 7 44 33 36 54</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_sam3x.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 9 0 15 58 38 39 35 37 30 41 6 43 40 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 9 0 15 58 38 39 37 30 41 6 43 40 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\system_sam3x.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 20 15 58 38 39 35 37 30 41 0 6 43 40 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 20 15 58 38 39 37 30 41 0 6 43 40 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\kernel_functions_february_2019.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10 44 58 38 39 35 37 30 41 33 36 54 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 44 58 38 39 37 30 41 33 36 54 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\application_program.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20 15 58 38 39 35 37 30 41 0 6 43 40 5 1 10 44 33 36 54 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20 15 58 38 39 37 30 41 0 6 43 40 5 1 10 44 33 36 54 34</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\RTOS_project.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 46 32 61 17 57 27 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\c.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 60 26 52 45 21 16 14 51 53 42 47 50 49 55</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\context_switching_functions_february2019.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

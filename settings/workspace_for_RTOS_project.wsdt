@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>RTOS_project/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>160</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>26</ColumnWidth0><ColumnWidth1>1103</ColumnWidth1><ColumnWidth2>294</ColumnWidth2><ColumnWidth3>73</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1860</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11729-18338</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>RTOS_project</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2><Tabs><Tab><Identity>TabID-6661-10046</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-16123-26364</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\kernel_functions_march_2019.h</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>1837</SelStart><SelEnd>1837</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\kernel_functions_march_2019.c</Filename><XPos>0</XPos><YPos>116</YPos><SelStart>3901</SelStart><SelEnd>3901</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sample_test_one.c</Filename><XPos>0</XPos><YPos>98</YPos><SelStart>2</SelStart><SelEnd>5232</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\sample_test_two.c</Filename><XPos>0</XPos><YPos>104</YPos><SelStart>3250</SelStart><SelEnd>3250</SelEnd></Tab><ActiveTab>3</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\test.c</Filename><XPos>0</XPos><YPos>116</YPos><SelStart>2</SelStart><SelEnd>3732</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\context_switching_functions_march_2019.s</Filename><XPos>0</XPos><YPos>166</YPos><SelStart>7525</SelStart><SelEnd>7525</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02773cc0><key>iaridepm.enu1</key></Toolbar-02773cc0></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes><Toolbar-1ccf26d0><key>debuggergui.enu1</key></Toolbar-1ccf26d0></Sizes></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>922</Bottom><Right>234</Right><x>-2</x><y>-2</y><xscreen>422</xscreen><yscreen>96</yscreen><sizeHorzCX>219792</sizeHorzCX><sizeHorzCY>85868</sizeHorzCY><sizeVertCX>122917</sizeVertCX><sizeVertCY>826476</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>151</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>153</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>136852</sizeHorzCY><sizeVertCX>175521</sizeVertCX><sizeVertCY>59928</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
